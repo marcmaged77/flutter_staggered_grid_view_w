@@ -1,4 +1,4 @@
-name: flutter_staggered_grid_view
+name: flutter_staggered_grid_view_w   # <-- must match what you use in the app
 description: Provides a collection of Flutter grids layouts (staggered, masonry, quilted, woven, etc.).
 version: 0.7.0
 homepage: https://github.com/letsar/flutter_staggered_grid_view
